@@ -44,6 +44,7 @@ I am a highly skilled and results-oriented software engineer with extensive indu
 - Cybersecurity
 
 ## 🔭 Currently Working On
+- Farm Application
 - Drug authentication application
 - Zormor Event and Experiences Booking Mobile and Web Application
 
